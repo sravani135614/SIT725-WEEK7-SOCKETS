@@ -1,0 +1,22 @@
+{
+  "name": "sit725-week7-sockets",
+  "version": "1.0.0",
+  "description": "Multi-client socket chat application with Jest tests for SIT725 Task 7.2P",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "socket",
+    "chat",
+    "sit725"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
